@@ -45,7 +45,7 @@ const Player = ({ track }) => {
             <audio
                 ref={audioRef}
                 src={track.src}
-                onTimeUpdate={handleTimeUpdate}
+                onTimeUpdate={handleTimeUpdate} type="audio/mpeg"
                 onEnded={() => setIsPlaying(false)}
             />
         </div>
