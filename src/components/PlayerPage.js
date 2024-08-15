@@ -13,25 +13,25 @@ const PlayerPage1 = () => {
             title: 'Contralto',
             artist: 'Artist 1 - Live',
             src: '/audio/Contralto.mp3', // Caminho relativo para o arquivo MP3
-            cover: 'https://via.placeholder.com/400x400.png?text=Live+Version',
+            cover: 'https://via.placeholder.com/400x400.png?text=Contralto',
         },
         {
             title: 'Tenor',
             artist: 'Artist 1 - Live',
             src: '/audio/Tenor.mp3', // Caminho relativo para o arquivo MP3
-            cover: 'https://via.placeholder.com/400x400.png?text=Live+Version',
+            cover: 'https://via.placeholder.com/400x400.png?text=Tenor',
         },
         {
             title: 'Barítono',
             artist: 'Artist 1 - Acoustic',
             src: '/audio/Baritono.mp3', // Caminho relativo para o arquivo MP3
-            cover: 'https://via.placeholder.com/400x400.png?text=Acoustic+Version',
+            cover: 'https://via.placeholder.com/400x400.png?text=Barítono',
         },
         {
             title: 'Soprano',
             artist: 'Artist 1 - Remix',
             src: '/audio/Soprano.mp3', // Caminho relativo para o arquivo MP3
-            cover: 'https://via.placeholder.com/400x400.png?text=Remix+Version',
+            cover: 'https://via.placeholder.com/400x400.png?text=Soprano',
         },
     ];
 

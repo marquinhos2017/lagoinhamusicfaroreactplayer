@@ -6,7 +6,7 @@ const SongList = () => {
     const navigate = useNavigate();
 
     const songs = [
-        { title: 'Canção ao Cordeiro', artist: 'Artist 1', path: '/song1' },
+        { title: 'Canção ao Cordeiro', artist: '', path: '/song1' },
         // { title: 'Shalon', artist: 'Artist 2', path: '/song2' },
         //    { title: 'Santo pra sempre', artist: 'Artist 3', path: '/song3' },
         //    { title: 'Canção do Apocalipse', artist: 'Artist 4', path: '/song4' },
